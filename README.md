@@ -10,7 +10,7 @@ This repository collects recent advances focusing on **defence / adversarial att
   - Publication: arxiv 2024
   - Feature:
  
-- **Sampled-RC** (On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures) [[paper]([https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qingzhao))] [[code](https://github.com/zqzqz/AdvCollaborativePerception)]
+- **Sampled-RC** (On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures) [[paper](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qingzhao)] [[code](https://github.com/zqzqz/AdvCollaborativePerception)]
   - Mode: Intermediate Collaboration
   - Dataset: Adv-OPV2V, Adv-MCity
   - Task: Detection
