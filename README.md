@@ -10,13 +10,13 @@ This repository collects recent advances focusing on **defence / adversarial att
   - Publication: arxiv 2024
   - Feature:
  
-- **Sampled-RC** (On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures) [[paper](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qingzhao)] [[code](https://github.com/zqzqz/AdvCollaborativePerception)]
+- **CAD** (On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures) [[paper](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qingzhao)] [[code](https://github.com/zqzqz/AdvCollaborativePerception)]
   - Mode: Intermediate Collaboration
   - Dataset: Adv-OPV2V, Adv-MCity
   - Task: Detection
   - Input: Point Cloud
   - Publication: USENIX 2024
-  - Feature: Propose various real-time data fabrication attacks to undermine collaborative perception systems and present a systematic anomaly detection approach for defense.
+  - Feature: Propose various real-time data fabrication attacks to undermine collaborative perception systems and present a Collaborative Anomaly Detection (CAD) approach for defense.
 
 - **ROBOSAC** (Among Us: Adversarially Robust Collaborative Perception by Consensus) [[paper](https://arxiv.org/abs/2303.09495)] [[code](https://github.com/coperception/ROBOSAC)]
   - Mode: Intermediate Collaboration
@@ -32,6 +32,6 @@ This repository collects recent advances focusing on **defence / adversarial att
   - Task: Adversarial Attack
   - Input: Point Cloud
   - Publication: ICCV 2021
-  - Feature: Investigate _adversarial attacks_ in multi-agent perception where **perturbations** are applied to learned intermediate representations.
+  - Feature: First attack specific to intermediate-fusion collaborative perception, which is an untargeted adversarial attack creating inaccurate detection bounding boxes as many as possible by perturbing feature maps in intermediate-fusion systems.
  
   
