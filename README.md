@@ -32,6 +32,6 @@ This repository collects recent advances focusing on **defence / adversarial att
   - Task: Adversarial Attack
   - Input: Point Cloud
   - Publication: ICCV 2021
-  - Feature: First attack specific to intermediate-fusion collaborative perception, which is an untargeted adversarial attack creating inaccurate detection bounding boxes as many as possible by perturbing feature maps in intermediate-fusion systems.
+  - Feature: The first attack specific to intermediate-fusion collaborative perception, which is an untargeted adversarial attack creating inaccurate detection bounding boxes as many as possible by perturbing feature maps in intermediate-fusion systems.
  
   
