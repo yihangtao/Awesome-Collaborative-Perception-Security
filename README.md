@@ -2,7 +2,7 @@
 
 This repository collects recent advances focusing on **defence / adversarial attack** of **collaborative / cooperative / multi-agent perception** for **V2I / V2V / V2X** autonomous driving. 
 
-- **MADE** (MADE: Malicious Agent Detection for Robust Multi-Agent  Collaborative Perception) [[paper]([https://openreview.net/forum?id=gsglrhvQxX](https://arxiv.org/abs/2310.11901))] [~~code~~]
+- **MADE** (MADE: Malicious Agent Detection for Robust Multi-Agent  Collaborative Perception) [[paper](https://arxiv.org/abs/2310.11901)] [~~code~~]
   - Mode: Intermediate Collaboration
   - Dataset: V2X-sim, DAIR-V2X
   - Task: Detection
