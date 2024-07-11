@@ -16,7 +16,7 @@ This repository collects recent advances focusing on **defence / adversarial att
   - Task: Detection
   - Input: Point Cloud
   - Publication: USENIX 2024
-  - Feature:
+  - Feature: Propose various real-time data fabrication attacks to undermine collaborative perception systems and present a systematic anomaly detection approach for defense.
 
 - **ROBOSAC** (Among Us: Adversarially Robust Collaborative Perception by Consensus) [[paper](https://arxiv.org/abs/2303.09495)] [[code](https://github.com/coperception/ROBOSAC)]
   - Mode: Intermediate Collaboration
