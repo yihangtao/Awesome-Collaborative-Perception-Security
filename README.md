@@ -8,7 +8,7 @@ This repository collects recent advances focusing on **defence / adversarial att
   - Task: Detection
   - Input: Point Cloud
   - Publication: arxiv 2024
-  - Feature:
+  - Feature: Propose a semi-supervised anomaly detector based on a double-hypothesis test with the Benjamini-Hochberg procedure for false positive control; Propose two novel statistics, _match loss_ and _collaborative reconstruction loss_, to assess the consistency between each putative malicious agent and the ego agent.
  
 - **CAD** (On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures) [[paper](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qingzhao)] [[code](https://github.com/zqzqz/AdvCollaborativePerception)]
   - Mode: Intermediate Collaboration
