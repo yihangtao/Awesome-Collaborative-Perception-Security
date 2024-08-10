@@ -17,6 +17,14 @@ This repository collects recent advances focusing on **defence / adversarial att
   - Input: Point Cloud
   - Publication: USENIX 2024
   - Feature: Propose various real-time data fabrication attacks to undermine collaborative perception systems and present a Collaborative Anomaly Detection (CAD) approach for defense.
+ 
+- **V2XP-ASG** (V2XP-ASG: Generating Adversarial Scenes for Vehicle-to-Everything Perception) [[paper](https://arxiv.org/abs/2209.13679)] [[code](https://github.com/XHwind/V2XP-ASG?tab=readme-ov-file)]
+  - Mode: Intermediate Collaboration
+  - Dataset: OPV2V, Heuristic
+  - Task: Detection
+  - Input: Point Cloud
+  - Publication: ICRA 2023
+  - Feature: V2XP-ASG learns to construct an adversarial collaboration graph and simultaneously perturb multiple agents’ poses in an adversarial and plausible manner.
 
 - **ROBOSAC** (Among Us: Adversarially Robust Collaborative Perception by Consensus) [[paper](https://arxiv.org/abs/2303.09495)] [[code](https://github.com/coperception/ROBOSAC)]
   - Mode: Intermediate Collaboration
